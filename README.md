@@ -93,7 +93,7 @@ No manual setup is required.
 | ---------- | ---------------------------------------------------------------- |
 | API Health | [http://localhost:8000/health](http://localhost:8000/health)     |
 | Dashboard  | [http://localhost:3000](http://localhost:3000)                   |
-| Checkout   | [http://localhost:3001/checkout](http://localhost:3001/checkout) |
+| Checkout   | [http://localhost:3001/checkout](order_id=order_abcd1234xyz...) (replace with your real order_id) |
 
 ---
 
