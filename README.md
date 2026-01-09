@@ -205,23 +205,7 @@ The checkout page uses **public APIs only** and does not expose merchant credent
 
 ---
 
-## 🎥 Demo & Visuals
-
-The submission includes:
-
-* Screenshots of dashboard pages
-* Screenshots of checkout flow
-* 2–3 minute video demo showing:
-
-  * Order creation
-  * Checkout payment
-  * Dashboard update
-
----
-
 ## ✅ Evaluation Readiness
-
-This project satisfies all Partnr Task-4 requirements:
 
 * Functional correctness
 * Automated test compatibility
